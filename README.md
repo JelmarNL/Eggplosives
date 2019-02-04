@@ -6,6 +6,6 @@ Download jar, put it into the `\plugins` folder, reload or restart your server a
 
 ## Config
 Fire explosion:
-`fire-eggplosion:` `true/false (default: true)`
-\nExplosion size:
+`fire-eggplosion:` `true/false (default: true)`  
+Explosion size:
 `eggplosion-size:` `integer (default: 3)`
